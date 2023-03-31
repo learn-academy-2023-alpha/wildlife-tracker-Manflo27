@@ -1,0 +1,2 @@
+class OregonAnimal < ApplicationRecord
+end

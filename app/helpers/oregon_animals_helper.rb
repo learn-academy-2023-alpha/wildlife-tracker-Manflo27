@@ -1,0 +1,2 @@
+module OregonAnimalsHelper
+end
